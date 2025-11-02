@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-py-grim&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=ar-py-grim&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-py-grim&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ar-py-grim&theme=default&hide_border=false&include_all_commits=true&count_private=true&hide_title=true" />
+    </td>
+  </tr>
+</table>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ar-py-grim&theme=default&hide_border=false)
