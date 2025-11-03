@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ar-py-grim&theme=default&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ar-py-grim&theme=default&hide_border=false&hide_current_streak=true&hide_longest_streak=true)
