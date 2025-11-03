@@ -19,9 +19,9 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-py-grim&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ar-py-grim&theme=default&hide_border=false&include_all_commits=true&count_private=true&hide_title=true&&hide_rank=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ar-py-grim&theme=default&hide_border=false&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&hide=contribs" />
     </td>
   </tr>
 </table>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ar-py-grim&theme=default&hide_border=false&hide_current_streak=true&hide_longest_streak=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ar-py-grim&theme=default&hide_border=false&hide_current_streak=true&hide_longest_streak=true&date_format=)
