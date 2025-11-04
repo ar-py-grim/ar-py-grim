@@ -13,18 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-py-grim&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ar-py-grim&theme=default&hide_border=false&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&hide=contribs" />
-    </td>
-  </tr>
-</table>
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ar-py-grim&theme=default)](https://github.com/ar-py-grim)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ar-py-grim&theme=default)](https://github.com/ar-py-grim)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ar-py-grim&theme=default&hide_border=false&hide_current_streak=true&hide_longest_streak=true&date_format=)
+<p align="center"><a href="https://github.com/AndrejOrsula?tab=repositories&q=&type=source&language=&sort=stargazers"><img align="center" width="50%" src="https://github-readme-stats-andrejorsula.vercel.app/api/top-langs/?username=AndrejOrsula&cache_seconds=86400&disable_animations=true&hide_border=true&hide_title=true&locale=en&bg_color=00000000&text_color=808080&layout=compact&count_weight=0.25&size_weight=0.75&langs_count=6&hide=cmake,css,html,javascript,jupyter%20notebook,kit,makefile,qmake,tex,typst"/><img align="center" width="50%" src="https://github-readme-stats-andrejorsula.vercel.app/api?username=AndrejOrsula&cache_seconds=86400&disable_animations=true&hide_border=true&hide_title=true&locale=en&bg_color=00000000&text_color=808080&icon_color=404040&hide_rank=true&show_icons=true&number_format=long&count_private=true&include_all_commits=true&hide=contribs&line_height=22"/></a></p>
