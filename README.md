@@ -24,8 +24,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![Projects](https://img.shields.io/badge/Project%20Types-5-blue) 
-![Languages](https://img.shields.io/badge/Languages-6-green) 
-![Domains](https://img.shields.io/badge/Domains-Data%20Science%20|%20Systems%20|%20Web-orange)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ar-py-grim&theme=default)](https://github.com/ar-py-grim)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ar-py-grim&theme=default)](https://github.com/ar-py-grim)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ar-py-grim&theme=default&hide_border=false&hide_current_streak=true&hide_longest_streak=true&date_format=)
