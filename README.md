@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github-readme-stats-omega-one-89.vercel.app/api/top-langs/?username=ar-py-grim&layout=compact&langs_count=6&count_weight=0.3&size_weight=0.7"
+    src="https://github-readme-stats-omega-one-89.vercel.app/api/top-langs/?username=ar-py-grim&layout=compact&langs_count=6&count_weight=0.3&size_weight=0.7&bg_color=00000000&text_color=808080"
     width="48%"/>
 </p>
 
